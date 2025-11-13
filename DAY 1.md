@@ -74,15 +74,52 @@
 
 **Renaming Columns:**
 
-**Data Cleaning** 
+**Data Cleaning**
 
-**Forward fill** 
+**Forward fill**
 
-**Backrward fill** 
+**Backrward fill**
 
-** Changing value in the Existing data Dealing with duplicate Data **
+\*\* Changing value in the Existing data Dealing with duplicate Data \*\*
 
 **Apply And Lambda**
 
 
+
+
+
+
+**Pandas** 
+
+**Advance operation with examples Indexing**
+
+**iloc -> location based indexing**
+
+**loc -> label based indexing**
+
+**label based indexing your start and stop**
+
+**Conditional Selection:**
+
+**Logical  Operators: and, or, not**
+
+**Modfying the Series:**
+
+**Data Frame:**
+
+**Braodcasting**
+
+**Renaming Columns:**
+
+**Data Cleaning**
+
+**Forward fill**
+
+**Backrward fill**
+
+**Changing value in the Existing data**
+
+**Dealing with duplicate Data**
+
+**Apply And Lambda**
 
