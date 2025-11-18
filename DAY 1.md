@@ -89,7 +89,8 @@
 
 
 
-**Pandas** 
+
+**Pandas**
 
 **Advance operation with examples Indexing**
 
@@ -122,4 +123,26 @@
 **Dealing with duplicate Data**
 
 **Apply And Lambda**
+
+
+
+
+
+
+
+
+
+
+
+
+
+**DAY - 5** 
+
+
+
+
+
+**Made a Project:**
+
+**Hotel price predictor model with Scikit-learn example on Colab**
 
